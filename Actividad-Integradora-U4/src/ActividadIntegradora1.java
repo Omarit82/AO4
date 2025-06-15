@@ -6,8 +6,7 @@ en la que califiquen un servicio del 1 al 5. Usar un método para calcular la ca
 promedio. Utilizar un ciclo do-while para permitir que múltiples usuarios ingresen sus calificaciones
 hasta que decidan no continuar.*/
 
-public class ActividadIntegradora {
-    
+public class ActividadIntegradora1 {
 
     //Metodo estatico al cual se le ingresa la suma de valores y la cantidad de valores y devuelve el promedio
     public static double calificacionPromedio(int cantidad, int suma){
